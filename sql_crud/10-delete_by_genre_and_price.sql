@@ -1,0 +1,1 @@
+DELETE FROM books WHERE genre = 'Horror' AND price < 10;

@@ -1,0 +1,1 @@
+    SELECT genre FROM books WHERE genre = 'Fantasy' ORDER BY price ASC;

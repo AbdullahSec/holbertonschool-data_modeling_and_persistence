@@ -1,0 +1,1 @@
+SELECT title, price FROM books WHERE author = 'J.R.R. Tolkien' ORDER BY price DESC;
